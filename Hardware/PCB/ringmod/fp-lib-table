@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ringmod")(type "KiCad")(uri "${KIPRJMOD}/ringmod.pretty")(options "")(descr ""))
+  (lib (name "ringmod_panel")(type "KiCad")(uri "/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/ringmod_panel.pretty")(options "")(descr ""))
+)
