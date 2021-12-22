@@ -1,4 +1,4 @@
-19156348458864699
+19177571401884001
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -54781,6 +54781,97 @@ solder jumper open
 0
 5
 3
+Kosmo_panel
+Kosmo_Jack_Hole
+Mounting Hole 6mm
+mounting hole 6mm
+0
+1
+1
+Kosmo_panel
+Kosmo_LED_Hole
+Mounting Hole 6mm
+mounting hole 6mm
+0
+1
+1
+Kosmo_panel
+Kosmo_Panel_Dual_Mounting_Holes
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+2
+1
+Kosmo_panel
+Kosmo_Panel_Dual_Slotted_Mounting_Holes
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+2
+1
+Kosmo_panel
+Kosmo_Panel_Mounting_Hole
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+Kosmo_panel
+Kosmo_Panel_Slotted_Mounting_Hole
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+Kosmo_panel
+Kosmo_Pot_Hole
+Mounting Hole 6mm
+mounting hole 6mm
+0
+1
+1
+Kosmo_panel
+Kosmo_Slide_Pot_Alpha_60mm
+
+
+0
+0
+0
+Kosmo_panel
+Kosmo_Switch_Hole
+Mounting Hole 6mm
+mounting hole 6mm
+0
+1
+1
+Kosmo_panel
+Kosmo_Trimmer_Pot_Hole
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+Kosmo_panel
+Little_Jack_Hole
+Mounting Hole 6mm
+mounting hole 6mm
+0
+1
+1
+Kosmo_panel
+OLED_128x64
+
+
+0
+0
+0
+Kosmo_panel
+Push_Button_A-3487
+Dailywell PAS6B3M1CESA2-5 etc, Tayda A-2387 etc
+
+0
+1
+1
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -81515,6 +81606,13 @@ C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor
 2
 2
 ao_tht
+C_Radial_D8.0mm_H11.5mm_P3.50mm
+C, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=11.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 3.50mm diameter 8mm height 11.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+ao_tht
 C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
 C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf
 C Rect series Radial pin pitch 5.00mm  length 7.2mm width 2.5mm Capacitor
@@ -81661,6 +81759,13 @@ mounting hole 3.2mm no annular m3
 0
 0
 0
+ao_tht
+MountingHole_3.2mm_Pad
+Mounting Hole 3.2mm
+mounting hole 3.2mm
+0
+1
+1
 ao_tht
 OSHW-Logo2_7.3x6mm_SilkScreen
 Open Source Hardware Symbol
@@ -81948,17 +82053,3 @@ Transformer TY-141P
 0
 6
 6
-ringmod_panel
-ringmod_panel_2_holes
-
-
-0
-0
-0
-ringmod_panel
-ringmod_panel_holes
-
-
-0
-0
-0

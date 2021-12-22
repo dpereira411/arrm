@@ -1,3 +1,3 @@
 # Active Real Ring Modulator notes
 
-It might be better to move the input preamp to another module — I think it would make more sense in an envelope follower. With a preamp output so it can be patched into this, of course.
+The instrument preamp will be in the envelope follower module, so it would make sense to omit it from here.

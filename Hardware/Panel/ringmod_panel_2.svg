@@ -7,6 +7,9 @@
    id="svg8"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    sodipodi:docname="ringmod_panel_2.svg"
+   inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Hardware/Panel/ringmod_panel_2.png"
+   inkscape:export-xdpi="101.46577"
+   inkscape:export-ydpi="101.46577"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -1243,16 +1246,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84"
-     inkscape:cx="155.95238"
-     inkscape:cy="568.45238"
+     inkscape:zoom="0.5"
+     inkscape:cx="72"
+     inkscape:cy="549"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
-     showgrid="false"
+     showgrid="true"
      units="in"
      inkscape:window-width="1581"
      inkscape:window-height="1020"
-     inkscape:window-x="0"
+     inkscape:window-x="18"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
@@ -1281,8 +1284,8 @@
        type="xygrid"
        id="grid10120"
        units="mm"
-       spacingx="0.019685039"
-       spacingy="0.019685039"
+       spacingx="0.039370079"
+       spacingy="0.039370079"
        empspacing="5"
        originx="0"
        originy="0" />
@@ -1329,11 +1332,11 @@
        orientation="0,-1"
        id="guide3120" />
     <sodipodi:guide
-       position="1.6732283,4.503937"
+       position="2.9527559,4.5433072"
        orientation="0,-1"
        id="guide3122" />
     <sodipodi:guide
-       position="1.5748031,6.0787401"
+       position="2.9527559,6.1968505"
        orientation="0,-1"
        id="guide3124" />
     <sodipodi:guide
@@ -1353,10 +1356,6 @@
        orientation="1,0"
        id="guide10149" />
     <sodipodi:guide
-       position="1.5748031,7.6535433"
-       orientation="0,-1"
-       id="guide11190" />
-    <sodipodi:guide
        position="3.9352865,10.773386"
        orientation="1,0"
        id="guide11192" />
@@ -1369,10 +1368,6 @@
        orientation="0,-1"
        id="guide30364" />
     <sodipodi:guide
-       position="1.968504,3.5590551"
-       orientation="0,-1"
-       id="guide26864" />
-    <sodipodi:guide
        position="4.8818914,2.5748004"
        orientation="1,0"
        id="guide13253" />
@@ -1381,21 +1376,33 @@
        orientation="1,0"
        id="guide13331" />
     <sodipodi:guide
-       position="2.9527559,7.6535433"
+       position="2.9527559,6.1968505"
        orientation="0.70710678,-0.70710678"
        id="guide21382" />
     <sodipodi:guide
-       position="2.4606299,3.1259842"
-       orientation="-0.70710678,-0.70710678"
-       id="guide21384" />
-    <sodipodi:guide
-       position="3.4448772,3.1259842"
+       position="2.9527559,7.8503938"
        orientation="-0.70710678,-0.70710678"
        id="guide21386" />
     <sodipodi:guide
        position="2.1653543,6.4724409"
        orientation="1,0"
        id="guide21388" />
+    <sodipodi:guide
+       position="2.9527559,7.8503938"
+       orientation="0,-1"
+       id="guide21012" />
+    <sodipodi:guide
+       position="2.4606299,3.1259842"
+       orientation="-0.70710678,-0.70710678"
+       id="guide21374" />
+    <sodipodi:guide
+       position="3.4448772,3.1259842"
+       orientation="0.70710678,-0.70710678"
+       id="guide21376" />
+    <sodipodi:guide
+       position="3.7401574,6.472441"
+       orientation="1,0"
+       id="guide22765" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -2702,23 +2709,6 @@
          id="circle2872"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path2531"
-       d="m 2.1496064,6.3818897 h 0.622047 V 7.0039372 H 2.3149604 L 2.1496064,6.8464569 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <circle
-       r="0.21653543"
-       cy="6.6929159"
-       cx="2.4606297"
-       id="circle2533"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
     <circle
        r="0.2972441"
        cy="6.6072297"
@@ -2730,23 +2720,6 @@
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0312598;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M -0.88978727,6.6072308 V 6.7095931 L -1.204748,7.1820341 H -1.269709 M -1.6496304,6.6072308 v 0.1023623 l 0.3149608,0.472441 h 0.064961 M -0.88978727,6.6072308 V 6.5048685 L -1.204748,6.0324275 H -1.269709 M -1.6496304,6.6072308 V 6.5048685 l 0.3149608,-0.472441 h 0.064961"
        inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3254"
-       d="m 2.1496062,3.6259934 h 0.622047 V 4.2480409 H 2.3149602 L 2.1496062,4.0905606 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <circle
-       r="0.21653543"
-       cy="3.9370203"
-       cx="2.4606295"
-       id="circle3256"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
     <rect
        style="display:inline;opacity:0.495;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6523"
@@ -2776,23 +2749,6 @@
        cy="8.8582678"
        cx="3.4448819"
        id="circle7802"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path19206"
-       d="m 2.1496017,7.3661414 h 0.622047 v 0.622048 h -0.456693 l -0.165354,-0.157481 z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <circle
-       r="0.21653543"
-       cy="7.6771679"
-       cx="2.4606249"
-       id="circle19208"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
        inkscape:export-xdpi="101.46577"
@@ -2928,81 +2884,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path14167"
-       d="m 2.1496062,2.6417414 h 0.622047 V 3.2637889 H 2.3149602 L 2.1496062,3.1063086 Z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <circle
-       r="0.21653543"
-       cy="2.9527683"
-       cx="2.4606297"
-       id="circle14169"
-       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <g
-       transform="translate(9.3503945,1.6181176)"
-       id="g21560"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         cy="5.5669289"
-         cx="-5.9055119"
-         id="circle21556"
-         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         r="0.31496063" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle21558"
-         cx="-5.9055119"
-         cy="5.5669289"
-         r="0.17716536" />
-    </g>
-    <g
-       transform="translate(9.3486724,-0.25196818)"
-       id="g21574"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         cy="5.5669289"
-         cx="-5.9055119"
-         id="circle21570"
-         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         r="0.31496063" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle21572"
-         cx="-5.9055119"
-         cy="5.5669289"
-         r="0.17716536" />
-    </g>
-    <g
-       transform="translate(9.3503945,-2.12204)"
-       id="g21588"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         cy="5.5669289"
-         cx="-5.9055119"
-         id="circle21584"
-         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         r="0.31496063" />
-      <circle
-         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle21586"
-         cx="-5.9055119"
-         cy="5.5669289"
-         r="0.17716536" />
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path2399"
+       id="path17027"
        d="m 2.1496065,8.5472406 h 0.622047 v 0.622048 h -0.456693 l -0.165354,-0.157481 z"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
@@ -3012,11 +2894,118 @@
        r="0.21653543"
        cy="8.8582678"
        cx="2.4606299"
-       id="circle2401"
+       id="circle17029"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17053"
+       d="m 3.1338585,7.5629886 h 0.622047 v 0.622048 h -0.456693 l -0.165354,-0.157481 z"
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <circle
+       r="0.21653543"
+       cy="7.8740158"
+       cx="3.4448819"
+       id="circle17055"
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17057"
+       d="m 2.1496065,7.5629886 h 0.622047 v 0.622048 h -0.456693 l -0.165354,-0.157481 z"
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <circle
+       r="0.21653543"
+       cy="7.8740158"
+       cx="2.4606299"
+       id="circle17059"
+       style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <g
+       transform="translate(-0.98425097,1.9133931)"
+       id="g21258">
+      <circle
+         cy="5.5669289"
+         cx="-5.9055119"
+         id="circle21254"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         r="0.31496063" />
+      <circle
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21256"
+         cx="-5.9055119"
+         cy="5.5669289"
+         r="0.17716536" />
+    </g>
+    <g
+       id="g21288"
+       transform="translate(8.8582668,-2.4173196)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.31496063"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21284"
+         cx="-5.9055119"
+         cy="5.5669289" />
+      <circle
+         r="0.17716536"
+         cy="5.5669289"
+         cx="-5.9055119"
+         id="circle21286"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g21318"
+       transform="translate(8.858269,-0.76377285)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.31496063"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21314"
+         cx="-5.9055119"
+         cy="5.5669289" />
+      <circle
+         r="0.17716536"
+         cy="5.5669289"
+         cx="-5.9055119"
+         id="circle21316"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g21348"
+       transform="translate(8.858269,0.88977045)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.31496063"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21344"
+         cx="-5.9055119"
+         cy="5.5669289" />
+      <circle
+         r="0.17716536"
+         cy="5.5669289"
+         cx="-5.9055119"
+         id="circle21346"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3117,8 +3106,34 @@
      inkscape:label="Labels"
      style="display:inline">
     <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.9527559,4.8031495 -0.7874016,0.7874016 0,1.9881891 0.2952756,0.2952756 v 0.9842473"
+       id="path20528"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect28998"
+       width="0.86614197"
+       height="0.19685046"
+       x="2.0275595"
+       y="8.1692934"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 3.4448783,7.8740184 0.2952791,-0.2952828 0,-3.6417279 -0.7874015,-0.7874015"
+       id="path20530"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0312501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="M 3.8976379,8.4251969 H 2.007874 v 0.984252 l 1.8897639,3e-6 z"
+       d="m 3.8976379,8.4251969 h -0.905512 v 0.984252 l 0.905512,3e-6 z"
        id="path2403"
        sodipodi:nodetypes="ccccc"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
@@ -4591,52 +4606,6 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect2135);shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle2539"
-       cx="2.4606309"
-       cy="6.6929188"
-       r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.4606295"
-       y="7.1653547"
-       id="text2543"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"><tspan
-         sodipodi:role="line"
-         id="tspan2541"
-         x="2.4606295"
-         y="7.1653547"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">AC CARRIER</tspan></text>
-    <circle
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle3270"
-       cx="2.4606295"
-       cy="7.6771755"
-       r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.4606295"
-       y="8.1496067"
-       id="text2543-3"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"><tspan
-         sodipodi:role="line"
-         id="tspan2541-6"
-         x="2.4606295"
-         y="8.1496067"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">DC CARRIER</tspan></text>
-    <circle
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle5826"
        cx="3.4448814"
        cy="8.8582783"
@@ -4657,7 +4626,7 @@
          id="tspan5830"
          x="3.4448814"
          y="9.3307095"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">RM OUT</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">OUT</tspan></text>
     <g
        id="g9106"
        transform="translate(-15,2.9527559)"
@@ -4695,29 +4664,6 @@
          inkscape:path-effect="#path-effect9126"
          inkscape:original-d="M 6.0433071,6.2007792 H 6.1614174" />
     </g>
-    <circle
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle19210"
-       cx="2.4606295"
-       cy="3.9370184"
-       r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.4606295"
-       y="4.4094496"
-       id="text19214"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"><tspan
-         sodipodi:role="line"
-         id="tspan19212"
-         x="2.4606295"
-         y="4.4094496"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">SYNTH IN</tspan></text>
     <path
        style="display:inline;fill:#550000;fill-rule:evenodd;stroke:#000000;stroke-width:0.010433;stroke-linecap:butt;stroke-linejoin:round"
        d="m -9.9409448,7.0866052 c 0,0 0.1181103,0 0.1181103,0"
@@ -4779,110 +4725,8 @@
        id="path3464-7-9"
        style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
-       r="0.17716536"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5439"
-       cx="3.4448819"
-       cy="7.1850395"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0.6;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="3.4448781"
-       y="7.8543315"
-       id="text5443"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
-         sodipodi:role="line"
-         id="tspan5441"
-         x="3.4448781"
-         y="7.8543315"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">CARRIER</tspan><tspan
-         sodipodi:role="line"
-         x="3.4448781"
-         y="8.0543308"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         id="tspan9588">LEVEL</tspan></text>
-    <circle
-       r="0.17716536"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5486"
-       cx="3.4431605"
-       cy="5.3149605"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="3.4431567"
-       y="5.9842525"
-       id="text5490"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
-         sodipodi:role="line"
-         id="tspan5488"
-         x="3.4431567"
-         y="5.9842525"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">UNBALANCE</tspan></text>
-    <circle
-       r="0.17716536"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5504"
-       cx="3.4449167"
-       cy="3.4560885"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0.6;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="3.4449129"
-       y="4.1253805"
-       id="text5508"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"><tspan
-         sodipodi:role="line"
-         id="tspan5506"
-         x="3.4449129"
-         y="4.1253805"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">SIGNAL</tspan><tspan
-         sodipodi:role="line"
-         x="3.4449129"
-         y="4.3253803"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         id="tspan6996">LEVEL</tspan></text>
-    <circle
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle14171"
-       cx="2.4606295"
-       cy="2.9527664"
-       r="0.27559054"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="2.4606295"
-       y="3.4251976"
-       id="text14175"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"><tspan
-         sodipodi:role="line"
-         id="tspan14173"
-         x="2.4606295"
-         y="3.4251976"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">INST IN</tspan></text>
-    <circle
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle2405"
+       id="circle17031"
        cx="2.4606295"
        cy="8.8582783"
        r="0.27559054"
@@ -4891,18 +4735,127 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4606295"
        y="9.3307095"
-       id="text2409"
+       id="text17035"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"><tspan
          sodipodi:role="line"
+         id="tspan17033"
          x="2.4606295"
          y="9.3307095"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
-         id="tspan2780">INST OUT</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">AC CARRIER</tspan></text>
+    <circle
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle17061"
+       cx="3.4448814"
+       cy="7.8740263"
+       r="0.27559054"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="3.4448814"
+       y="8.3464575"
+       id="text17065"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"><tspan
+         sodipodi:role="line"
+         id="tspan17063"
+         x="3.4448814"
+         y="8.3464575"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">SIGNAL</tspan></text>
+    <circle
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle17067"
+       cx="2.4606295"
+       cy="7.8740263"
+       r="0.27559054"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.4606295"
+       y="8.3464575"
+       id="text17071"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"><tspan
+         sodipodi:role="line"
+         id="tspan17069"
+         x="2.4606295"
+         y="8.3464575"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">DC CARRIER</tspan></text>
+    <circle
+       cy="7.4803214"
+       cx="-6.8897586"
+       id="circle21260"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="0.17716536" />
+    <text
+       id="text21264"
+       y="8.4645748"
+       x="-6.8897624"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
+         y="8.4645748"
+         x="-6.8897624"
+         id="tspan21262"
+         sodipodi:role="line">LABEL</tspan></text>
+    <circle
+       r="0.17716536"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle21290"
+       cx="2.952755"
+       cy="3.1496098"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <circle
+       r="0.17716536"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle21320"
+       cx="2.9527574"
+       cy="4.8031564"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <circle
+       r="0.17716536"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle21350"
+       cx="2.9527574"
+       cy="6.4567003"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;line-height:1;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="2.9527535"
+       y="7.2441025"
+       id="text21354"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
+         sodipodi:role="line"
+         id="tspan21352"
+         x="2.9527535"
+         y="7.2441025"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">CARRIER</tspan><tspan
+         sodipodi:role="line"
+         x="2.9527535"
+         y="7.4512095"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
+         id="tspan27252">UNBALANCE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5139,31 +5092,6 @@
        id="path2803"
        d="m -4.3503971,2.5590626 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <circle
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle2551"
-       cx="2.4606309"
-       cy="6.6929188"
-       r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.4606269,6.5944937 V 6.7913442"
-       id="path2553"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.5590519,6.6929189 h -0.19685"
-       id="path2555"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
     <g
        id="g2461"
        style="display:inline"
@@ -5229,31 +5157,6 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
-    <circle
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle3290"
-       cx="2.4606295"
-       cy="7.6771755"
-       r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.4606253,7.5787502 V 7.7756007"
-       id="path3292"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.5590503,7.6771754 h -0.19685"
-       id="path3294"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
     <g
        id="g6665"
        transform="translate(3.5433079,5.0433001)"
@@ -5553,31 +5456,6 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
-    <circle
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle19216"
-       cx="2.4606295"
-       cy="3.9370184"
-       r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.4606253,3.8385932 v 0.19685"
-       id="path19218"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.5590503,3.9370182 h -0.19685"
-       id="path19220"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
     <g
        id="g3455-5"
        style="display:inline"
@@ -5716,104 +5594,7 @@
        r="0.039370079" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle14177"
-       cx="2.4606295"
-       cy="2.9527664"
-       r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.4606253,2.8543412 v 0.19685"
-       id="path14179"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.5590503,2.9527662 h -0.19685"
-       id="path14181"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <g
-       id="g21568"
-       style="display:inline"
-       transform="translate(10.334645,2.0669292)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         r="0.13779527"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle21562"
-         cx="-6.8897638"
-         cy="5.1181102" />
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M -6.8897636,5.019685 V 5.2165355"
-         id="path21564"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -6.7913386,5.1181103 h -0.19685"
-         id="path21566"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g21582"
-       style="display:inline"
-       transform="translate(10.332923,0.19685039)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         r="0.13779527"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle21576"
-         cx="-6.8897638"
-         cy="5.1181102" />
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M -6.8897636,5.019685 V 5.2165355"
-         id="path21578"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -6.7913386,5.1181103 h -0.19685"
-         id="path21580"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g21596"
-       style="display:inline"
-       transform="translate(10.334645,-1.6732283)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         r="0.13779527"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle21590"
-         cx="-6.8897638"
-         cy="5.1181102" />
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M -6.8897636,5.019685 V 5.2165355"
-         id="path21592"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -6.7913386,5.1181103 h -0.19685"
-         id="path21594"
-         inkscape:connector-curvature="0" />
-    </g>
-    <circle
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle2411"
+       id="circle17037"
        cx="2.4606295"
        cy="8.8582783"
        r="0.19685039"
@@ -5823,7 +5604,7 @@
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606253,8.7598526 V 8.9567031"
-       id="path2414"
+       id="path17039"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
        inkscape:export-xdpi="101.46577"
@@ -5831,11 +5612,154 @@
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590503,8.8582778 h -0.19685"
-       id="path2416"
+       id="path17041"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle17073"
+       cx="3.4448814"
+       cy="7.8740263"
+       r="0.19685039"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 3.4448773,7.7756006 V 7.9724511"
+       id="path17075"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3.5433023,7.8740258 h -0.19685"
+       id="path17077"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <circle
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle17079"
+       cx="2.4606295"
+       cy="7.8740263"
+       r="0.19685039"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 2.4606253,7.7756006 V 7.9724511"
+       id="path17081"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.5590503,7.8740258 h -0.19685"
+       id="path17083"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <g
+       id="g21272"
+       style="display:inline"
+       transform="translate(3.9081574e-8,2.3622047)">
+      <circle
+         r="0.13779527"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21266"
+         cx="-6.8897638"
+         cy="5.1181102" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -6.8897636,5.019685 V 5.2165355"
+         id="path21268"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -6.7913386,5.1181103 h -0.19685"
+         id="path21270"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g21302"
+       style="display:inline"
+       transform="translate(9.8425173,-1.9685075)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.13779527"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21296"
+         cx="-6.8897638"
+         cy="5.1181102" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -6.8897636,5.019685 V 5.2165355"
+         id="path21298"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -6.7913386,5.1181103 h -0.19685"
+         id="path21300"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g21332"
+       style="display:inline"
+       transform="translate(9.8425195,-0.31496075)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.13779527"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21326"
+         cx="-6.8897638"
+         cy="5.1181102" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -6.8897636,5.019685 V 5.2165355"
+         id="path21328"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -6.7913386,5.1181103 h -0.19685"
+         id="path21330"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g21362"
+       style="display:inline"
+       transform="translate(9.8425195,1.3385826)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.13779527"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21356"
+         cx="-6.8897638"
+         cy="5.1181102" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -6.8897636,5.019685 V 5.2165355"
+         id="path21358"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -6.7913386,5.1181103 h -0.19685"
+         id="path21360"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5876,6 +5800,36 @@
      id="layer11"
      inkscape:label="Panel Hardware"
      style="display:inline">
+    <g
+       id="g2377"
+       transform="matrix(-1.0495306,0,0,1.0495306,5.4341673,-2.6080244)"
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.61374104"
+         cy="7.0687695"
+         cx="2.3643098"
+         id="circle2369"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2371"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39753675"
+         cy="7.0687723"
+         cx="2.3643107"
+         id="circle2373"
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2375"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
     <g
        id="g3230-5"
        style="display:inline"
@@ -6080,36 +6034,6 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g1918-1-1"
-       transform="matrix(-0.72831063,0,0,0.72831063,5.1668345,-1.7033802)"
-       style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         r="0.61374104"
-         cy="7.0687695"
-         cx="2.3643098"
-         id="circle1910-0-7"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1912-2-5"
-         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
-         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="0.39753675"
-         cy="7.0687723"
-         cx="2.3643107"
-         id="circle1914-2-9"
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1916-9-6"
-         d="M 2.3622056,6.4724214 V 6.6692718"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
        style="display:inline"
        id="g1966-3-7"
        transform="matrix(1.000002,0,0,1.000002,-13.858276,-2.9409493)"
@@ -6283,52 +6207,6 @@
        style="display:inline;opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.098425187" />
     <g
-       transform="matrix(1.000002,0,0,1.000002,3.0154229,0.72272492)"
-       style="display:inline"
-       id="g2571"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle2563"
-         cx="-4.8929329"
-         cy="-3.4655535"
-         r="0.26752752"
-         transform="rotate(-120)" />
-      <path
-         transform="matrix(-0.12479012,-0.21614283,0.21614283,-0.12479012,-1.7787487,6.3931811)"
-         inkscape:transform-center-y="2.0377906e-06"
-         d="m -0.44985651,6.0200689 -1.06879179,0 -0.5343958,-0.9256008 0.5343959,-0.9256008 1.06879179,0 0.53439582,0.9256009 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="0.99404621"
-         sodipodi:r1="1.0687917"
-         sodipodi:cy="5.0944681"
-         sodipodi:cx="-0.98425233"
-         sodipodi:sides="6"
-         id="path2565"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <circle
-         transform="rotate(-120)"
-         r="0.17638719"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle2567"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         transform="rotate(-120)"
-         r="0.12532775"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle2569"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
        style="display:inline"
        id="g3100"
        transform="matrix(1.000002,0,0,1.000002,-6.0236284,-3.5196677)">
@@ -6492,52 +6370,6 @@
            id="path4950"
            inkscape:connector-curvature="0" />
       </g>
-    </g>
-    <g
-       transform="matrix(1.000002,0,0,1.000002,3.0154213,1.7069814)"
-       style="display:inline"
-       id="g3322"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle3314"
-         cx="-4.8929329"
-         cy="-3.4655535"
-         r="0.26752752"
-         transform="rotate(-120)" />
-      <path
-         transform="matrix(-0.12479012,-0.21614283,0.21614283,-0.12479012,-1.7787487,6.3931811)"
-         inkscape:transform-center-y="2.0377906e-06"
-         d="m -0.44985651,6.0200689 -1.06879179,0 -0.5343958,-0.9256008 0.5343959,-0.9256008 1.06879179,0 0.53439582,0.9256009 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="0.99404621"
-         sodipodi:r1="1.0687917"
-         sodipodi:cy="5.0944681"
-         sodipodi:cx="-0.98425233"
-         sodipodi:sides="6"
-         id="path3316"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <circle
-         transform="rotate(-120)"
-         r="0.17638719"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle3318"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         transform="rotate(-120)"
-         r="0.12532775"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle3320"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g6591"
@@ -6747,52 +6579,6 @@
          id="circle5856"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <g
-       transform="matrix(1.000002,0,0,1.000002,3.0154213,-2.0331762)"
-       style="display:inline"
-       id="g7825"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle7817"
-         cx="-4.8929329"
-         cy="-3.4655535"
-         r="0.26752752"
-         transform="rotate(-120)" />
-      <path
-         transform="matrix(-0.12479012,-0.21614283,0.21614283,-0.12479012,-1.7787487,6.3931811)"
-         inkscape:transform-center-y="2.0377906e-06"
-         d="m -0.44985651,6.0200689 -1.06879179,0 -0.5343958,-0.9256008 0.5343959,-0.9256008 1.06879179,0 0.53439582,0.9256009 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="0.99404621"
-         sodipodi:r1="1.0687917"
-         sodipodi:cy="5.0944681"
-         sodipodi:cx="-0.98425233"
-         sodipodi:sides="6"
-         id="path7819"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <circle
-         transform="rotate(-120)"
-         r="0.17638719"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle7821"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         transform="rotate(-120)"
-         r="0.12532775"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle7823"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
     <text
        xml:space="preserve"
        style="font-size:0.130226px;line-height:0.6;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:start;display:inline;fill:#00ffff;stroke-width:0.00999995;stroke-linejoin:bevel;stop-color:#000000"
@@ -6932,121 +6718,15 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0277149;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(1.000002,0,0,1.000002,3.0154213,-3.0174282)"
-       style="display:inline"
-       id="g14191"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle14183"
-         cx="-4.8929329"
-         cy="-3.4655535"
-         r="0.26752752"
-         transform="rotate(-120)" />
-      <path
-         transform="matrix(-0.12479012,-0.21614283,0.21614283,-0.12479012,-1.7787487,6.3931811)"
-         inkscape:transform-center-y="2.0377906e-06"
-         d="m -0.44985651,6.0200689 -1.06879179,0 -0.5343958,-0.9256008 0.5343959,-0.9256008 1.06879179,0 0.53439582,0.9256009 z"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="true"
-         sodipodi:arg2="1.5707963"
-         sodipodi:arg1="1.0471976"
-         sodipodi:r2="0.99404621"
-         sodipodi:r1="1.0687917"
-         sodipodi:cy="5.0944681"
-         sodipodi:cx="-0.98425233"
-         sodipodi:sides="6"
-         id="path14185"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="star" />
-      <circle
-         transform="rotate(-120)"
-         r="0.17638719"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle14187"
-         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         transform="rotate(-120)"
-         r="0.12532775"
-         cy="-3.4655535"
-         cx="-4.8929329"
-         id="circle14189"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g2701"
-       transform="matrix(-0.72831063,0,0,0.72831063,5.1651132,0.16669866)"
-       style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         r="0.61374104"
-         cy="7.0687695"
-         cx="2.3643098"
-         id="circle2693"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2695"
-         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
-         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="0.39753675"
-         cy="7.0687723"
-         cx="2.3643107"
-         id="circle2697"
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2699"
-         d="M 2.3622056,6.4724214 V 6.6692718"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g2711"
-       transform="matrix(-0.72831063,0,0,0.72831063,5.1668345,2.0421341)"
-       style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
-      <circle
-         r="0.61374104"
-         cy="7.0687695"
-         cx="2.3643098"
-         id="circle2703"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2705"
-         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
-         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="0.39753675"
-         cy="7.0687723"
-         cx="2.3643107"
-         id="circle2707"
-         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2709"
-         d="M 2.3622056,6.4724214 V 6.6692718"
-         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
        transform="matrix(1.000002,0,0,1.000002,3.0154213,2.8880838)"
        style="display:inline"
-       id="g2426"
+       id="g17051"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle2418"
+         id="circle17043"
          cx="-4.8929329"
          cy="-3.4655535"
          r="0.26752752"
@@ -7065,7 +6745,7 @@
          sodipodi:cy="5.0944681"
          sodipodi:cx="-0.98425233"
          sodipodi:sides="6"
-         id="path2420"
+         id="path17045"
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:type="star" />
       <circle
@@ -7073,15 +6753,194 @@
          r="0.17638719"
          cy="-3.4655535"
          cx="-4.8929329"
-         id="circle2422"
+         id="circle17047"
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          transform="rotate(-120)"
          r="0.12532775"
          cy="-3.4655535"
          cx="-4.8929329"
-         id="circle2424"
+         id="circle17049"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.000002,0,0,1.000002,3.9996733,1.9038318)"
+       style="display:inline"
+       id="g17093"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle17085"
+         cx="-4.8929329"
+         cy="-3.4655535"
+         r="0.26752752"
+         transform="rotate(-120)" />
+      <path
+         transform="matrix(-0.12479012,-0.21614283,0.21614283,-0.12479012,-1.7787487,6.3931811)"
+         inkscape:transform-center-y="2.0377906e-06"
+         d="m -0.44985651,6.0200689 -1.06879179,0 -0.5343958,-0.9256008 0.5343959,-0.9256008 1.06879179,0 0.53439582,0.9256009 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="0.99404621"
+         sodipodi:r1="1.0687917"
+         sodipodi:cy="5.0944681"
+         sodipodi:cx="-0.98425233"
+         sodipodi:sides="6"
+         id="path17087"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <circle
+         transform="rotate(-120)"
+         r="0.17638719"
+         cy="-3.4655535"
+         cx="-4.8929329"
+         id="circle17089"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         transform="rotate(-120)"
+         r="0.12532775"
+         cy="-3.4655535"
+         cx="-4.8929329"
+         id="circle17091"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.000002,0,0,1.000002,3.0154213,1.9038318)"
+       style="display:inline"
+       id="g17103"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle17095"
+         cx="-4.8929329"
+         cy="-3.4655535"
+         r="0.26752752"
+         transform="rotate(-120)" />
+      <path
+         transform="matrix(-0.12479012,-0.21614283,0.21614283,-0.12479012,-1.7787487,6.3931811)"
+         inkscape:transform-center-y="2.0377906e-06"
+         d="m -0.44985651,6.0200689 -1.06879179,0 -0.5343958,-0.9256008 0.5343959,-0.9256008 1.06879179,0 0.53439582,0.9256009 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="0.99404621"
+         sodipodi:r1="1.0687917"
+         sodipodi:cy="5.0944681"
+         sodipodi:cx="-0.98425233"
+         sodipodi:sides="6"
+         id="path17097"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0417367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <circle
+         transform="rotate(-120)"
+         r="0.17638719"
+         cy="-3.4655535"
+         cx="-4.8929329"
+         id="circle17099"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         transform="rotate(-120)"
+         r="0.12532775"
+         cy="-3.4655535"
+         cx="-4.8929329"
+         id="circle17101"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g21282"
+       transform="matrix(-1.0495306,0,0,1.0495306,-4.4083469,0.06142931)"
+       style="display:inline">
+      <circle
+         r="0.61374104"
+         cy="7.0687695"
+         cx="2.3643098"
+         id="circle21274"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path21276"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39753675"
+         cy="7.0687723"
+         cx="2.3643107"
+         id="circle21278"
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path21280"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g21282-7"
+       transform="matrix(-1.0495306,0,0,1.0495306,5.4341714,-4.2692836)"
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.61374104"
+         cy="7.0687695"
+         cx="2.3643098"
+         id="circle21274-5"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path21276-3"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39753675"
+         cy="7.0687723"
+         cx="2.3643107"
+         id="circle21278-5"
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path21280-6"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(-0.85870685,0,0,0.85870685,4.9830018,0.38669947)"
+       id="g21372"
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Ken Stone/Active real ring modulator/Kosmo version/Images/ringmod_panel_2.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21364"
+         cx="2.3643098"
+         cy="7.0687695"
+         r="0.61374104" />
+      <path
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         id="path21366"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle21368"
+         cx="2.3643107"
+         cy="7.0687723"
+         r="0.39753675" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         id="path21370"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
