@@ -2,6 +2,13 @@ This is a work in progress; better README to come soon. Meanwhile:
 
 **Untested hardware and software — Do not assume anything works!**
 
+This is a Kosmo format synth module based on Ken Stone's CGS [https://sdiy.info/wiki/CGS_active_real_ring_modulator](Active Real Ring Modulator). 
+
+Main difference with Stone's original are:
+
+* The instrument preamplifier was omitted
+* Transformer footprints are for the TY-141P instead of the less available MO222
+* Final stage input resistor is decreased to 10k, output resistor is increased to 1k, and a 100k pulldown is added on the output.
 
 ## Current draw
  mA +12 V,  mA -12 V
