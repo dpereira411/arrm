@@ -8,7 +8,9 @@ On the first PCB run, the transformer footprints are incorrect; mainly the probl
 
 Place the dot side of the transformer toward the bottom for TR1 and toward the top for TR2.
 
-This was corrected after the first run.
+R4 has the wrong value shown on the first run PCB silkscreen; it should be 330k, not 330R.
+
+These were corrected after the first run.
 
 # Build
 
