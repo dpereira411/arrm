@@ -1,5 +1,5 @@
 Drill report for arrm.kicad_pcb
-Created on Tue Apr 19 11:49:20 2022
+Created on Thu May  5 17:55:16 2022
 
 Copper Layer Stackup:
     =============================================================
@@ -16,9 +16,9 @@ Drill file 'arrm.drl' contains
     T4  1.016mm  0.0400"  (10 holes)
     T5  1.100mm  0.0433"  (4 holes)
     T6  1.200mm  0.0472"  (7 holes)
-    T7  1.524mm  0.0600"  (12 holes)
+    T7  1.524mm  0.0600"  (14 holes)
 
-    Total plated holes count 139
+    Total plated holes count 141
 
 
 Not plated through holes are merged with plated holes
