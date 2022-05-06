@@ -20,7 +20,7 @@ Main difference with Stone's original are:
 
 ## Documentation
 
-* [Schematic](Docs/.pdf)
+* [Schematic](Docs/arrm.pdf)
 * PCB layout: [front](Docs/arrm_layout_front.pdf), [back](Docs/arrm_layout_back.pdf)
 * [BOM](Docs/arrm_bom.md)
 * [Build notes](Docs/build.md)
