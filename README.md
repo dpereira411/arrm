@@ -24,6 +24,7 @@ Main difference with Stone's original are:
 * PCB layout: [front](Docs/arrm_layout_front.pdf), [back](Docs/arrm_layout_back.pdf)
 * [BOM](Docs/arrm_bom.md)
 * [Build notes](Docs/build.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2022/05/05/cgs-ken-stone-active-real-ring-modulator/)
 
 ## GitHub repository
 
