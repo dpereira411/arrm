@@ -9,7 +9,7 @@ Main difference with Stone's original are:
 * Final stage input resistor is decreased to 10k, output resistor is increased to 1k, and a 100k pulldown is added on the output.
 
 ## Current draw
-? mA +12 V, ? mA -12 V
+11.5 mA +12 V, 11.5 mA -12 V
 
 
 ## Photos
